@@ -8,6 +8,12 @@ body {
 .title{
     text-align: center;
 }
+.details{
+    
+}
+ul{
+    padding: 0px;   
+}
 div{
     
     background-color: #B2533E;
