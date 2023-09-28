@@ -1,0 +1,32 @@
+body {
+    background-color: #EBE4D1;
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+    color: #B2533E;
+}
+.title{
+    text-align: center;
+}
+div{
+    
+    background-color: #B2533E;
+    padding-left: 20px;
+    width: 100%;
+    
+}
+
+img{
+    border: 3px solid #004225;
+    height: 540px;
+    width: 550px;
+    margin-left: 650px;
+}
+a{
+    color: #004225;
+    margin: 0px;
+    padding: 10px;
+}
+.items{
+    color: #004225;
+}
