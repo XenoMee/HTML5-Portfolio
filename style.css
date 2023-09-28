@@ -9,17 +9,13 @@ body {
     text-align: center;
 }
 .details{
-    
+    padding: 0px 20px;
 }
 ul{
     padding: 0px;   
 }
 div{
-    
     background-color: #B2533E;
-    padding-left: 20px;
-    width: 100%;
-    
 }
 
 img{
@@ -35,4 +31,5 @@ a{
 }
 .items{
     color: #004225;
+    padding: 0px 20px;
 }
