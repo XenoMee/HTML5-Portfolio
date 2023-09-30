@@ -9,10 +9,12 @@ body {
     text-align: center;
 }
 .details{
-    padding: 0px 20px;
+    padding: 0px 0px 0px 5px;
+    margin: 10px 20px;
 }
 ul{
-    padding: 0px;   
+    padding: 0px; 
+    margin: 20px 0px;  
 }
 div{
     background-color: #B2533E;
@@ -26,10 +28,12 @@ img{
 }
 a{
     color: #004225;
-    margin: 0px;
+    margin: 0px 0px 10px 10px;
     padding: 10px;
 }
 .items{
     color: #004225;
-    padding: 0px 20px;
+    padding: 3px 0px;
+    margin: 0px 20px;
+    font-size: 14pt;
 }
